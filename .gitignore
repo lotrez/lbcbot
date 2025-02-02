@@ -180,3 +180,4 @@ tmp
 .buildkite/ci.yml
 *.sock
 scratch*.{js,ts,tsx,cjs,mjs}                          
+debug.json

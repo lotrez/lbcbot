@@ -181,3 +181,4 @@ tmp
 *.sock
 scratch*.{js,ts,tsx,cjs,mjs}                          
 debug.json
+/lbc-ads-images
